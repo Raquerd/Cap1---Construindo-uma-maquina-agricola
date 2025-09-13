@@ -156,3 +156,4 @@ Descomente o código em gerador de dados.py e execute:
 ``` bash
 python "gerador de dados.py"
 ```
+
